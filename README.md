@@ -9,7 +9,6 @@ I usually develop enterprise application as work and develop useful tool as priv
 # My GitHub Status
 
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=neko3cs&show_icons=true&theme=dracula)
-
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neko3cs&theme=dracula)
 
 # Links

@@ -4,7 +4,7 @@ I'm neko3cs, working at japanese system integrator as software engineer!
 
 I usually develop enterprise application as work and develop useful tool as private!
 
-# My interest
+# My interest 👀
 
 My interest is to make people happy through software development.
 
@@ -19,12 +19,12 @@ For this reason, I am focusing on the following this:
 - Typescript
 - Angular
 
-# My GitHub Status
+# My GitHub Status 🐙🐱
 
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=neko3cs&show_icons=true&theme=dracula)
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neko3cs&theme=dracula)
 
-# Links
+# Links 🔗
 
 | Site          | Link                                                                                                               |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ |

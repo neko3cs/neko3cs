@@ -26,24 +26,9 @@ For this reason, I am focusing on the following this:
 
 # Links
 
-|Site|Link|
-|--|--|
-|Twitter|[![Twitter: neko3cs](https://img.shields.io/twitter/follow/neko3cs.svg?style=social)](https://twitter.com/neko3cs)|
-|Blog|[Hatena Blog - ねこさんのぶろぐ](https://www.neko3cs.net/)|
-|Zenn|[Zenn - neko3cs](https://zenn.dev/neko3cs)|
-|Nuget Gallery|[Nuget Gallery - neko3cs](https://www.nuget.org/profiles/neko3cs)|
-
-<!--
-**neko3cs/neko3cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Site          | Link                                                                                                               |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Twitter       | [![Twitter: neko3cs](https://img.shields.io/twitter/follow/neko3cs.svg?style=social)](https://twitter.com/neko3cs) |
+| Blog          | [Hatena Blog - ねこさんのぶろぐ](https://www.neko3cs.net/)                                                         |
+| Zenn          | [Zenn - neko3cs](https://zenn.dev/neko3cs)                                                                         |
+| Nuget Gallery | [Nuget Gallery - neko3cs](https://www.nuget.org/profiles/neko3cs)                                                  |

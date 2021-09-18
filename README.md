@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm neko3cs, working at japanese system integrator as software engineer!
+I'm neko3cs, I'm neko3cs, working as software engineer!
 
 I usually develop enterprise application as work and develop useful tool as private!
 
@@ -10,14 +10,15 @@ My interest is to make people happy through software development.
 
 For this reason, I am focusing on the following this:
 
-- C# and .NET
-- Domain Driven Design
-- Quality Assurance
-- PowerShell and Automization
-- Web Application
 - Node.js
 - Typescript
 - Angular
+- React
+- React Native
+- C# and .NET
+- PowerShell and Automization
+- UI/UX
+- Quality Assurance
 
 # My GitHub Status 🐙🐱
 

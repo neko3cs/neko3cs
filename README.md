@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm neko3cs, I'm neko3cs, working as software engineer!
+I'm neko3cs, working as software engineer!
 
 I usually develop enterprise application as work and develop useful tool as private!
 

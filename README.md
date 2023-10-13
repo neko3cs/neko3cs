@@ -26,6 +26,7 @@
 | Site          | Link                                                                                                               |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Twitter       | [![Twitter: neko3cs](https://img.shields.io/twitter/follow/neko3cs.svg?style=social)](https://twitter.com/neko3cs) |
+| BlueSky       | [ねこさん (@neko3cs.bsky.social) - Bluesky](https://bsky.app/profile/neko3cs.bsky.social)                          |
 | Blog          | [Hatena Blog - ねこさんのぶろぐ](https://www.neko3cs.net/)                                                         |
 | Zenn          | [Zenn - neko3cs](https://zenn.dev/neko3cs)                                                                         |
 |SpeakerDeck    | [ねこ (@neko3cs) on Speaker Deck](https://speakerdeck.com/neko3cs)                                                 |

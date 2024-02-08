@@ -5,8 +5,8 @@
 #### Language
 
 - TypeScript
-- C++
 - C#
+- Go
 - PowerShell
 
 #### Framework
@@ -14,7 +14,6 @@
 - Node.js
 - React
 - Tauri
-- Qt
 - .NET
 
 #### Things

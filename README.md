@@ -5,6 +5,7 @@
 #### Language
 
 - TypeScript
+- C++
 - C#
 - Go
 - PowerShell
@@ -14,6 +15,7 @@
 - Node.js
 - React
 - Tauri
+- Qt
 - .NET
 
 #### Things

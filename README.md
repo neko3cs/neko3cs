@@ -4,25 +4,19 @@
 
 #### Language
 
-- TypeScript
-- C++
-- C#
-- Go
-- PowerShell
+TypeScript, C++, C#, Go, PowerShell
 
 #### Framework
 
-- Node.js
-- React
-- Tauri
-- Qt
-- .NET
+Node.js, React, Tauri, Qt, .NET
 
-#### Things
+#### Thinking
 
-- UI/UX
-- Automization
-- Quality Assurance
+UI/UX, Automization, Quality Assurance
+
+#### Hobby
+
+Programming, Playing games, Watching anime, Camping, Snowboarding, Sleeping
 
 ### My GitHub Status 🐙🐱
 

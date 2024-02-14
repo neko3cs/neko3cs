@@ -16,7 +16,7 @@ UI/UX, Automization, Quality Assurance
 
 #### Hobby
 
-Programming, Playing games, Watching anime, Camping, Snowboarding, Sleeping
+Programming, Playing games, Playing bass guitar, Watching anime, Camping, Snowboarding, Sleeping
 
 ### My GitHub Status 🐙🐱
 

@@ -8,7 +8,7 @@ TypeScript, C++, C#, Go, PowerShell
 
 #### Framework
 
-Node.js, React, Tauri, Qt, .NET
+Node.js, React, Tauri, .NET
 
 #### Thinking
 

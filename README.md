@@ -25,12 +25,13 @@ Programming, Playing games, Playing bass guitar, Watching anime, Camping, Snowbo
 
 ### Links 🔗
 
-| Site           | Link                                                                                                                  |
-| -------------- | --------------------------------------------------------------------------------------------------------------------- |
-| X              | [![ねこ（@neko3cs）さん / X](https://img.shields.io/twitter/follow/neko3cs.svg?style=social)](https://twitter.com/neko3cs) |
-| BlueSky        | [ねこさん (@neko3cs.bsky.social) — Bluesky](https://bsky.app/profile/neko3cs.bsky.social)                               |
-| Blog           | [ねこさんのぶろぐ](https://www.neko3cs.net/)                                                                              |
-| Zenn           | [neko3csさんの記事一覧 &#124; Zenn](https://zenn.dev/neko3cs)                                                            |
-| stack overflow | [ユーザー: neko3cs - スタック・オーバーフロー](https://ja.stackoverflow.com/users/37413/neko3cs)                               |
-| SpeakerDeck    | [ねこ (@neko3cs) on Speaker Deck](https://speakerdeck.com/neko3cs)                                                     |
-| Nuget Gallery  | [NuGet Gallery &#124; neko3cs](https://www.nuget.org/profiles/neko3cs)                                                |
+| Site               | Link                                                                                                                  |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| X                  | [![ねこ（@neko3cs）さん / X](https://img.shields.io/twitter/follow/neko3cs.svg?style=social)](https://twitter.com/neko3cs) |
+| BlueSky            | [ねこさん (@neko3cs.bsky.social) — Bluesky](https://bsky.app/profile/neko3cs.bsky.social)                               |
+| Blog               | [ねこさんのぶろぐ](https://www.neko3cs.net/)                                                                              |
+| Zenn               | [neko3csさんの記事一覧 &#124; Zenn](https://zenn.dev/neko3cs)                                                            |
+| stack overflow     | [ユーザー: neko3cs - スタック・オーバーフロー](https://ja.stackoverflow.com/users/37413/neko3cs)                               |
+| SpeakerDeck        | [ねこ (@neko3cs) on Speaker Deck](https://speakerdeck.com/neko3cs)                                                     |
+| Nuget Gallery      | [NuGet Gallery &#124; neko3cs](https://www.nuget.org/profiles/neko3cs)                                                |
+| PowerShell Gallery | [PowerShell Gallery &#124; neko3cs](https://www.powershellgallery.com/profiles/neko3cs)                               |

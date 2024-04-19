@@ -1,22 +1,30 @@
 ## Hi, I'm neko3cs 👋
 
+### Location
+
+Tokyo, Japan.
+
+### Job
+
+Software Engineer for Enterprise.
+
 ### My interest 👀
 
 #### Language
 
-TypeScript, C++, C#, Go, PowerShell
+TypeScript, C++, C#, Go, PowerShell.
 
 #### Framework
 
-Node.js, Angular, React, .NET
+Node.js, Angular, React, .NET.
 
 #### Thinking
 
-UI/UX, Automization, Quality Assurance
+UI/UX, Automization, Quality Assurance.
 
 #### Hobby
 
-Programming, Playing games, Playing bass guitar, Watching anime, Camping, Snowboarding, Sleeping
+Programming, Playing games, Playing bass guitar, Watching anime, Camping, Snowboarding, Sleeping.
 
 ### My GitHub Status 🐙🐱
 

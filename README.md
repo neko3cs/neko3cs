@@ -18,11 +18,11 @@ TypeScript, C++, C#, Rust, Go, zsh, PowerShell.
 
 Node.js, Angular, React, Tauri, .NET.
 
-### Database
+#### Database
 
 SQL Server, MySQL, SQLite
 
-### Cloud Service
+#### Cloud Service
 
 Azure, AWS
 

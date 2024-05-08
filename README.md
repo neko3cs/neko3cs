@@ -12,11 +12,19 @@ Software Engineer for Enterprise.
 
 #### Language
 
-TypeScript, C++, C#, Go, PowerShell.
+TypeScript, C++, C#, Rust, Go, zsh, PowerShell.
 
 #### Framework
 
-Node.js, Angular, React, .NET.
+Node.js, Angular, React, Tauri, .NET.
+
+### Database
+
+SQL Server, MySQL, SQLite
+
+### Cloud Service
+
+Azure, AWS
 
 #### Thinking
 

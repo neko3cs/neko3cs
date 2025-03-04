@@ -8,7 +8,7 @@ Tokyo, Japan.
 
 Software Engineer for Enterprise.
 
-### My interest 👀
+### My interest(Not specialty) 👀
 
 #### Language
 

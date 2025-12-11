@@ -20,7 +20,7 @@ Node.js, Angular, React, .NET.
 
 #### Database
 
-SQL Server, MySQL, SQLite
+SQL Server, PostgreSQL, SQLite
 
 #### Tool
 

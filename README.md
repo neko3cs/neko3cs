@@ -12,11 +12,11 @@ Software Engineer for Enterprise.
 
 #### Language
 
-TypeScript, C++, C#, Go, zsh, PowerShell.
+TypeScript, C++, C#, Go, zsh, pwsh.
 
 #### Framework
 
-Node.js, Angular, React, .NET.
+Node.js, Angular, .NET.
 
 #### Database
 
@@ -24,11 +24,11 @@ SQL Server, PostgreSQL, SQLite
 
 #### Tool
 
-Podman, Kubenetes, Yarn, Wireshark
+Docker, Kubenetes, Deno, Yarn
 
 #### Cloud Service
 
-Azure, AWS
+Google Cloud, Azure
 
 #### Thinking
 

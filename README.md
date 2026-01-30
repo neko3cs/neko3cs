@@ -16,7 +16,7 @@ TypeScript, C++, C#, Go, zsh, pwsh.
 
 #### Framework
 
-Node.js, Angular, .NET.
+Angular, Node.js, TailwindCSS, .NET.
 
 #### Database
 

@@ -16,19 +16,19 @@ TypeScript, C++, C#, Go, zsh, pwsh.
 
 #### Framework
 
-Angular, Node.js, TailwindCSS, .NET.
+Angular, Material UI, Fluent UI, TailwindCSS, .NET.
 
 #### Database
 
-SQL Server, PostgreSQL, SQLite
+SQL Server, PostgreSQL, SQLite.
 
 #### Tool
 
-Docker, Kubenetes, Deno, pnpm
+Docker, Kubenetes, Deno, pnpm, Node.js.
 
 #### Cloud Service
 
-Google Cloud, Azure
+Google Cloud, Azure.
 
 #### Thinking
 

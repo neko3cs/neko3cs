@@ -16,7 +16,7 @@ TypeScript, C++, C#, Go, zsh, pwsh.
 
 #### Framework
 
-Angular, Material UI, Fluent UI, TailwindCSS, .NET.
+Angular, Material UI, TailwindCSS, .NET.
 
 #### Database
 

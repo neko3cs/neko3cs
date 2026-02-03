@@ -2,7 +2,8 @@
 
 ## Location
 
-Tokyo, Japan.
+- Living: Tokyo, Japan
+- Born: Aichi, Japan
 
 ## Job
 

@@ -13,11 +13,11 @@ Software Engineer for Enterprise.
 
 ### Language
 
-TypeScript, C++, C#, Go, zsh, pwsh.
+TypeScript, Swift, C++, C#, Go, zsh, pwsh.
 
 ### Framework
 
-Angular, Material UI, TailwindCSS, .NET.
+Angular, Material UI, TailwindCSS, SwiftUI, .NET.
 
 ### Database
 

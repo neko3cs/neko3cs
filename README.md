@@ -43,11 +43,6 @@ Programming, Playing games, Playing bass guitar, Watching anime, Camping, Snowbo
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=neko3cs&show_icons=true&count_private=true)
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neko3cs&layout=compact)
 
-## App Created By Me🔧
-
-- [neko3cs/ng-weather-app: 天気アプリ](https://github.com/neko3cs/ng-weather-app)
-- [neko3cs/good-dose-drug-button: お薬飲めてえらいボタンです。](https://github.com/neko3cs/good-dose-drug-button)
-
 ## My SNS Links🔗
 
 | Site               | Link                                                                                                                     |

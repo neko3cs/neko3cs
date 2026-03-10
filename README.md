@@ -2,8 +2,7 @@
 
 ## Location🌇
 
-- Living: Tokyo, Japan
-- Born: Aichi, Japan
+Tokyo, Japan
 
 ## Job🪖
 

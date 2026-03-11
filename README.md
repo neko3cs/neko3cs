@@ -24,7 +24,7 @@ SQL Server, PostgreSQL, SQLite.
 
 ### Tool
 
-Docker, Kubenetes, Deno, pnpm, Node.js.
+Docker, Kubenetes, pnpm, Node.js.
 
 ### Cloud Service
 

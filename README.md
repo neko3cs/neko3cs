@@ -1,9 +1,5 @@
 # Hi, I'm neko3cs 👋
 
-## Location🌇
-
-Tokyo, Japan
-
 ## Job🪖
 
 Software Engineer for Enterprise.

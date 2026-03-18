@@ -54,7 +54,7 @@ Programming, Playing games, Playing bass guitar, Watching anime, Camping, Snowbo
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | X                  | [![ねこ（@neko3cs）さん / X](https://img.shields.io/twitter/follow/neko3cs.svg?style=social)](https://twitter.com/neko3cs) |
 | Gitty              | [neko3cs のスキルプロフィール / Gitty](https://gitty-code.com/user/neko3cs)                                                |
-| Blog               | [ねこさんのぶろぐ](https://www.neko3cs.net/)                                                                               |
+| Blog               | [ねこさんのぶろぐ](https://blog.neko3cs.net/)                                                                               |
 | Zenn               | [neko3csさんの記事一覧 &#124; Zenn](https://zenn.dev/neko3cs)                                                              |
 | stack overflow     | [ユーザー: neko3cs - スタック・オーバーフロー](https://ja.stackoverflow.com/users/37413/neko3cs)                           |
 | SpeakerDeck        | [ねこ (@neko3cs) on Speaker Deck](https://speakerdeck.com/neko3cs)                                                         |

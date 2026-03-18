@@ -24,11 +24,11 @@ Docker, Kubenetes, pnpm, Node.js.
 
 ### Cloud Service
 
-Google Cloud, Azure.
+Azure, Google Cloud.
 
-### Thinking
+### Thoughts
 
-UI/UX, Automization, Quality Assurance.
+UI/UX, Automization, Modular Monolith, Quality Assurance.
 
 ## My Hobby🏂
 
@@ -36,7 +36,8 @@ Programming, Playing games, Playing bass guitar, Watching anime, Camping, Snowbo
 
 ## My GitHub Status🐙🐱
 
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=neko3cs&show_icons=true&count_private=true) ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neko3cs&layout=compact)
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=neko3cs&show_icons=true&count_private=true)
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neko3cs&layout=compact)
 
 ## App Create By Me🚀
 

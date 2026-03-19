@@ -10,7 +10,7 @@
 
 ## Buy Me a Coffee☕️
 
-🔗[Minato Suzuki is Creating Web Service!](https://buymeacoffee.com/neko3cs)
+🔗[neko3cs is Creating Web Service!](https://buymeacoffee.com/neko3cs)
 
 ## GitHub Sponsors❤️
 
